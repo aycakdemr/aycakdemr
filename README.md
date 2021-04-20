@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 
 
-
 [![Ayça's github stats](https://github-readme-stats.vercel.app/api?username=aycakdemr&theme=cobalt)](https://github.com/aycakdemr/github-readme-stats)<br/>
 [![Ayça's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aycakdemr&theme=cobalt)](https://github.com/aycakdemr/github-readme-stats)<br/><br/>
 
