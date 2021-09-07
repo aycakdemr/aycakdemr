@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 
 [![Ayça's github stats](https://github-readme-stats.vercel.app/api?username=aycakdemr&theme=cobalt)](https://github.com/aycakdemr/github-readme-stats)<br/>
-[![Ayça's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aycakdemr&theme=cobalt)](https://github.com/aycakdemr/github-readme-stats)<br/><br/>
 
-##### Contact with me via these platforms
 [![image](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aycaakdemir/)
-[![image](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSPFdVqfDvllvVVzQnntbNwxvHRwHNSPpfLPlFswrJtcjpNmkJZKpbcMsJtwDlFZwrGqzHJB)
+
 
