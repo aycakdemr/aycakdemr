@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 
 
-[![Ayça's github stats](https://github-readme-stats.vercel.app/api?username=aycakdemr&theme=cobalt)](https://github.com/aycakdemr/github-readme-stats)<br/>
+[![Ayça's github stats](https://github-readme-stats.vercel.app/api?username=aycakdemr&theme=material-palenight)](https://github.com/aycakdemr/github-readme-stats)<br/>
+
+
 
 [![image](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aycaakdemir/)
 
