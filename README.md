@@ -1,7 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/aycakdemr)<br/>
 
-
-### Hi there I'm Ayça 👋 
 <!--
 **aycakdemr/aycakdemr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning C#<br/><br/>
-
 
 
 [![Ayça's github stats](https://github-readme-stats.vercel.app/api?username=aycakdemr&theme=material-palenight)](https://github.com/aycakdemr/github-readme-stats)<br/>
